@@ -1,4 +1,4 @@
-<h1 align="center">Qualcomm-Gesture-Controlled-Robot</h1>
+<h1 align="center">Qualcomm-Gesture-Controlled-Robot 👋</h1>
 
 ## 1st Place Winner - Qualcomm Career Catalyst Mini-Hackathon
 
@@ -8,7 +8,7 @@ This project implements a real-time control system that translates hand gestures
 ## • Demonstration
 ![qualcommdemo (1)](https://github.com/user-attachments/assets/b75a557a-781b-4907-9d00-b35bbe8c72e0)  
 
-Vist https://youtu.be/Ewj8m4dt_m8 for a higher quality demo video of the project. Watch the real-time detection and prediction of gestures.
+Vist [this link](https://youtu.be/Ewj8m4dt_m8) for a higher quality demo video of the project, and watch the real-time detection and prediction of gestures.
 
 ## • Pipeline
 
