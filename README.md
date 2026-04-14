@@ -1,6 +1,6 @@
 <h1 align="center">Qualcomm Gesture-Controlled-Robot 👋</h1>
 
-## 1st Place Winner - Qualcomm Hackathon 
+## 1st Place - Qualcomm Hackathon 
 IEEE Career Catalyst Scholarship Program
 
 ## • Description
