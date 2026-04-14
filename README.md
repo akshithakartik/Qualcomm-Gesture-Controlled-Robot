@@ -1,6 +1,6 @@
-<h1 align="center">Qualcomm-Gesture-Controlled-Robot 👋</h1>
+<h1 align="center">Qualcomm Gesture-Controlled-Robot 👋</h1>
 
-## 1st Place Winner - Qualcomm Career Catalyst Mini-Hackathon
+## 1st Place Winner - Qualcomm Career Catalyst Mini-Hackathon (Initiative by IEEE)
 
 ## • Description
 This project implements a real-time control system that translates hand gestures into physical robot movements. By utilizing a distributed Edge AI architecture, the system captures a camera feed from a Rubik Pi, performs inference on a local machine, and transmits movement commands to an Arduino-powered robot.
