@@ -13,14 +13,14 @@ This project implements a low-latency, real-time control system that translates 
 1) **Data Collection**: A custom dataset of 2000 hand gesture images was created for training, covering various angles and orientations for robustness.
 
    • Gestures:
-   a) Closed Fist: "Go Forward"
-   b) Open Palm: "Stop"
-   c) Finger Pointing Right: "Turn Right"
+   a) Closed Fist: "Go Forward"  
+   b) Open Palm: "Stop"  
+   c) Finger Pointing Right: "Turn Right"  
    d) Finger Pointing Left: "Turn Left"
 
-Used Google's MediaPipe Hands to extract (x, y, z) coordinates for the 21 landmarks of a hand, resulting in 63 distinct features per gesture image.
+Used Google's MediaPipe Hands to extract (x, y, z) coordinates for the 21 landmarks of a hand, resulting in 63 distinct features per gesture image. This dataset is stored in ```data/gesture_data.csv```.
    
-
+1) **Model Training**: Used the custom dataset to train an SVM model, and utilized Stratified K-Fold Cross Validation to evaluate model performance. We achieved a cross-validation accuracy of (99 ± 0.2)%, attributed to the highly distinct spatial features of the chosen gestures. The trained model and its scaler are stored in ```model/gesture_classifier.pkl``` for real-time inference.
 
 
 
