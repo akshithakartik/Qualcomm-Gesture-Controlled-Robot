@@ -8,7 +8,7 @@ This project implements a low-latency, real-time control system that translates 
 ## • Demonstration
 ![qualcommdemo (1)](https://github.com/user-attachments/assets/b75a557a-781b-4907-9d00-b35bbe8c72e0)  
 
-Vist https://youtu.be/Ewj8m4dt_m8 for a higher quality demo video of the project.
+Vist https://youtu.be/Ewj8m4dt_m8 for a higher quality demo video of the project. Watch the real-time detection and prediction of gestures.
 
 ## • Pipeline
 
