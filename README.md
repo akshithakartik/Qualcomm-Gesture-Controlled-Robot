@@ -1,4 +1,4 @@
-# Qualcomm-Gesture-Controlled-Robot
+<h1 align="center">Qualcomm-Gesture-Controlled-Robot</h1>
 
 ## 1st Place Winner - Qualcomm Career Catalyst Mini-Hackathon
 
